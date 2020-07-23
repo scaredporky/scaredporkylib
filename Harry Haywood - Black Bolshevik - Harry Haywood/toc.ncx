@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xml:lang="eng" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="51c1966c-40f9-4273-ac35-b3412400d80f" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.19.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Harry Haywood - Black Bolshevik Autobiography of an Afro-American Communist (1978, Liberator Press)</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>Prologue</text>
+      </navLabel>
+      <content src="prologue.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>Chapter 1: A Child of Slaves</text>
+      </navLabel>
+      <content src="c1.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>Chapter 2: A Black Regiment in World War I</text>
+      </navLabel>
+      <content src="c2.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>Chapter 3: Searching for Answers</text>
+      </navLabel>
+      <content src="c2.html#p89"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>Chapter 4: An Organization for Revolutionaries</text>
+      </navLabel>
+      <content src="c4.html#p129"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>Chapter 5: A Student in Moscow</text>
+      </navLabel>
+      <content src="c5.html#p156"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="7">
+      <navLabel>
+        <text>Chapter 6: Trotsky's Day in Court</text>
+      </navLabel>
+      <content src="c6.html#p184"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="8">
+      <navLabel>
+        <text>Chapter 7: The Lenin School</text>
+      </navLabel>
+      <content src="c7.html#p206"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="9">
+      <navLabel>
+        <text>Chapter 8: Self-Determination: The Fight for a Correct Line</text>
+      </navLabel>
+      <content src="c8.html#p226"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="10">
+      <navLabel>
+        <text>Chapter 9: Sixth Congress of the Comintern: A Blow Against the Right</text>
+      </navLabel>
+      <content src="c8.html#p252"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="11">
+      <navLabel>
+        <text>Chapter 10: Lovestone Unmasked</text>
+      </navLabel>
+      <content src="c10.html#p289"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="12">
+      <navLabel>
+        <text>Chapter 11: My Last Year in the Soviet Union</text>
+      </navLabel>
+      <content src="c11.html#p324"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_13" playOrder="13">
+      <navLabel>
+        <text>Chapter 12: Return Home: White Chauvinism Under Fire</text>
+      </navLabel>
+      <content src="c12.html#p350"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_14" playOrder="14">
+      <navLabel>
+        <text>Chapter 13: Class Warfare in the Mines</text>
+      </navLabel>
+      <content src="c13.html#p386"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_15" playOrder="15">
+      <navLabel>
+        <text>Chapter 14: Reunion in Moscow</text>
+      </navLabel>
+      <content src="c14.html#p401"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_16" playOrder="16">
+      <navLabel>
+        <text>Chapter 15: Sharecroppers with Guns: Organizing the Black Belt</text>
+      </navLabel>
+      <content src="c15.html#p413"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_17" playOrder="17">
+      <navLabel>
+        <text>Chapter 16: Preparing for Battle: 8th Convention of the CPUSA</text>
+      </navLabel>
+      <content src="c16.html#p438"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_18" playOrder="18">
+      <navLabel>
+        <text>Chapter 17: Chicago: Against War in Fascism</text>
+      </navLabel>
+      <content src="c17.html#p463"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_19" playOrder="19">
+      <navLabel>
+        <text>Chapter 18: The Spanish Civil War: A Call to Arms</text>
+      </navLabel>
+      <content src="c18.html#p489"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_20" playOrder="20">
+      <navLabel>
+        <text>Chapter 19: World War II and the Merchant Marines</text>
+      </navLabel>
+      <content src="c19.html#p512"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_21" playOrder="21">
+      <navLabel>
+        <text>Chapter 20: Browder's Treachery</text>
+      </navLabel>
+      <content src="c20.html#p551"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_22" playOrder="22">
+      <navLabel>
+        <text>Chapter 21: A Party Weakened from Within</text>
+      </navLabel>
+      <content src="c21.html#p592"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_23" playOrder="23">
+      <navLabel>
+        <text>Chapter 22: Revisionism Takes Command</text>
+      </navLabel>
+      <content src="c22.html#p627"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_24" playOrder="24">
+      <navLabel>
+        <text>Epilogue</text>
+      </navLabel>
+      <content src="epilogue.html#p650"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_25" playOrder="25">
+      <navLabel>
+        <text>Notes</text>
+      </navLabel>
+      <content src="index_split_011.html#p667"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_26" playOrder="26">
+      <navLabel>
+        <text>Index</text>
+      </navLabel>
+      <content src="index_split_011.html#p700"/>
+    </navPoint>
+  </navMap>
+</ncx>
